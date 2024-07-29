@@ -4,7 +4,7 @@ Welcome to the **Semantic Kernel Chatbot** project! This bot leverages OpenAI's 
 
 ## Overview
 
-Semantic Kernel is a dynamic framework, with its documentation constantly updated to reflect the latest features and improvements. Keeping track of these changes can be challenging, which is why we developed this chatbot. It reads the latest documentation, parses it, and allows users to query the bot for specific information, ensuring you always have access to the most current and relevant details.
+Semantic Kernel is a dynamic framework, with its documentation constantly updated to reflect the latest features and improvements. Keeping track of these changes can be challenging, which is why I developed this chatbot. It reads the latest documentation, parses it, and allows users to query the bot for specific information, ensuring you always have access to the most current and relevant details.
 
 ## Features
 
